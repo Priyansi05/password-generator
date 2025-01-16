@@ -1,0 +1,1 @@
+This project is a Password Generator that allows users to create strong, random passwords. It provides various customization options to ensure the passwords meet specific criteria such as length, use of special characters, numbers, and letters.
